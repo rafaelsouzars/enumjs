@@ -11,4 +11,4 @@ console.log(`Domingo = ${semana.DOM} Terca = ${semana.TER}`);
 console.log(semana.showAll());
 ```
 
-![Saído no console](https://imgbox.com/DkAOdEZS)
+![Saído no console](https://images2.imgbox.com/a8/82/DkAOdEZS_o.png)
