@@ -2,14 +2,14 @@
 
 Biblioteca javascript com componente *__enumerador__*. ![Static Badge](https://img.shields.io/badge/version-0.1-green) ![Static Badge](https://img.shields.io/badge/status-beta-yellow)
 
-#####Exemplo: 
+**Exemplo:** 
 ```javascript
 let semana = new Enum(["SEG","TER","QUA","QUI","SEX","SAB","DOM"]);
 
 console.log(`Domingo = ${semana.DOM}, Terca = ${semana.TER}`);
 console.log(semana.showAll());
 ```
-#####Saída:
+**Saída:**
 
 >Domingo = 6, Terca = 1
 {
