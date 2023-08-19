@@ -12,12 +12,12 @@ console.log(semana.showAll());
 **Saída:**
 
 >Domingo = 6, Terca = 1
-{
-	SEG: '0',
-	TER: '1',
-	QUA: '2',
-	QUI: '3',
-	SEX: '4',
-	SAB: '5',
-	DOM: '6',
+>{
+>	SEG: '0',
+>	TER: '1',
+>	QUA: '2',
+>	QUI: '3',
+>	SEX: '4',
+>	SAB: '5',
+>	DOM: '6',
 >}
