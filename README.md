@@ -1,6 +1,7 @@
 # Enumjs
 
 Biblioteca javascript com componente *__enumerador__*. 
+
 ![Static Badge](https://img.shields.io/badge/version-0.1-green) ![Static Badge](https://img.shields.io/badge/status-beta-yellow)
 
 **Exemplo:** 
